@@ -5,11 +5,11 @@ effectively.
 Thus, we are trying to create a proctoring system which can monitor at scale and ensure that examinees don't practice cheating or other types of unethical behaviours.
 
 # How to run this project
-1. Install python on your system.
-2. Follow the below mwntioned steps:
-   a) git clone the repository
-   b) cd <repository>
-   c) Install the needed requirements mentioned in the requirement.txt file
+ Install python on your system.
+ Follow the below mentioned steps:
+1.  git clone the repository
+2.  cd <repository>
+3. Install the needed requirements mentioned in the requirement.txt file
    ~  pip install -r requirements.txt
-   d) Execute the run command
+4. Execute the run command
    ~  python run.py
